@@ -1,0 +1,126 @@
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.content {
+    width: 443px;
+    border: 1px solid lightgrey;
+    padding: 10px;
+    border-radius: 9px; 
+}
+.discount{
+    padding: 2px;
+    width: 130px;
+    border: 1px solid #1948ae;
+    font-size: 14px;
+    font-weight: bold;
+    background: #1948ae;
+    color: white;
+    position: absolute;
+    bottom: -18px;
+    left: -7px;
+}
+.timing {
+    width: 56px;
+    border: 1px solid white;
+    background: white;
+    border-radius: 4px;
+    padding: 2px;
+    font-size: 14px;
+    
+}
+.position-1{
+    position: absolute;
+    bottom: 32px;
+    left: 8px;
+}
+.timing{
+    position: absolute;
+    left: 370px;
+    top: -2px;
+
+}
+.mb-15 {
+    margin-bottom: 15px;
+}
+.nature-container {
+    position: relative;
+}
+.content-pos {
+    position: absolute;
+    bottom: 109px;
+    right: 134px;
+}
+.explore {
+    font-weight: bold;
+    color: white;
+}
+.text-pos {
+    position: absolute;
+    bottom: 67px;
+    left: 6px;
+    text-align: center;
+    color: white;
+    font-weight: 500;
+    font-size: 13px;
+}
+.btn {
+    border: none;
+    padding: 8px;
+    border-radius: 15px;
+    margin-top: 10px;
+    background-color: white;
+}
+.btn-pos {
+    position: absolute;
+    bottom: 30px;
+    left: 164px;
+}
+.title {
+    position: absolute;
+    top: 91px;
+    color: white;
+    left: 314px;
+    font-size: 90px;
+    font-style: italic;
+}
+.subtitle {
+    position: absolute;
+    bottom: 164px;
+    color: white;
+    left: 152px;
+    font-size: 33px;
+
+}
+.center {
+    text-align: center;
+}
+.search {
+    position: absolute;
+    bottom: 108px;
+    left: 287px;
+}
+.search input {
+    width: 326px;
+    padding: 10px;
+    border-radius: 14px;
+}
+.restaurant {
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 9px;
+}
+.footer {
+    
+}
+.description {
+    position: absolute;
+    left: 87px;
+    bottom: -40px;
+    font-size: 14px;
+}
+.img-style {
+    width: 95px;
+    height: 96px;
+    border-radius: 50%;
+    border: 2px solid white;
+}
